@@ -1,0 +1,9 @@
+
+.imgPokemon{
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain !important;
+    background-position-x: center !important;
+}
